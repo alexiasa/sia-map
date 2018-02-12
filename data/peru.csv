@@ -1,0 +1,90 @@
+city,lat,lon,admin,pop,fact
+Lima,-12.05,-77.05,Lima,8012000,Former Peruvian President Ollanta Humala was born here on 27 June 1962. He is the son of an ethnic Quechua indigenous lawyer.
+Callao,-12.056585,-77.118144,Callao,876877
+Arequipa,-16.398889,-71.535,Arequipa,815000
+Trujillo,-8.111944,-79.025556,La Libertad,765171
+Chilape,-6.729548,-79.835302,Lambayeque,596792
+Iquitos,-3.749125,-73.253828,Loreto,458729
+Huancayo,-12.065133,-75.204861,Junín,412733
+Piura,-5.194491,-80.632821,Piura,396932
+Cusco,-13.522643,-71.967344,Cusco,361182,Diego Quispe Tito (1611–1681) was a Quechua painter born in Cuzco. He is considered the leader of the Cuzco School of painting.
+Chimbote,-9.067752,-78.591522,Ancash,349846
+Pucallpa,-8.385512,-74.539073,Ucayali,310750
+Tacna,-18.005556,-70.248333,Tacna,280098
+Ica,-14.067768,-75.728611,Ica,279420
+Juliaca,-15.48972,-70.130418,Puno,245675
+Ayacucho,-13.10546,-74.196769,Ayacucho,166314
+Sullana,-4.900721,-80.68642,Piura,160789
+Huánuco,-9.930617,-76.242228,Huánuco,158145
+Chincha Alta,-13.412831,-76.129898,Ica,153076
+Cajamarca,-7.163672,-78.509958,Cajamarca,142665
+Cerro de Pasco,-10.667478,-76.256679,Pasco,137232
+Puno,-15.842202,-70.019899,Puno,116552
+Tumbes,-3.56694,-80.45153,Tumbes,109223
+Talara,-4.577186,-81.269075,Piura,99074
+Chosica,-11.931596,-76.693444,Lima,88606
+Huaraz,-9.527787,-77.527776,Ancash,86934
+Pisco,-13.707041,-76.200448,Ica,81207
+Huacho,-11.106667,-77.605,Lima,80474
+Chulucanas,-5.097238,-80.164861,Piura,68835
+Puerto Maldonado,-12.59331,-69.189128,Madre de Dios,67155
+Paita,-5.088485,-81.115501,Piura,56151
+Abancay,-13.633889,-72.881389,Apurímac,55111
+Moquegua,-17.198321,-70.935668,Moquegua,54517
+Ilo,-17.64013,-71.339476,Moquegua,53476
+Tingo María,-9.299724,-76.000385,Huánuco,53177
+Jaén,-5.709079,-78.80748,Cajamarca,52493
+Tarma,-11.417007,-75.686686,Junín,51350
+Ferreñafe,-6.635261,-79.788127,Lambayeque,50184
+Mollendo,-17.019568,-72.013625,Arequipa,49033
+Moyobamba,-6.034159,-76.971678,San Martín,47734
+Huancavelica,-12.782612,-74.972661,Huancavelica,44388
+Hualmay,-11.095836,-77.613891,Lima,40400
+Pacasmayo,-7.403017,-79.567645,La Libertad,39282
+Juanjuí,-7.176973,-76.727736,San Martín,37715
+Sicuani,-14.271052,-71.22699,Cusco,33575
+Forbe Oroya,-11.520224,-75.899886,Junín,33345
+Pativilca,-10.694702,-77.774716,Lima,31905
+Huamachuco,-7.813066,-78.047125,La Libertad,30835
+Casma,-9.473869,-78.298198,Ancash,30000
+Tocache Viejo,-8.190531,-76.553345,San Martín,29029
+Chancay,-11.560166,-77.267067,Lima,26958
+Chachapoyas,-6.230554,-77.870825,Amazonas,25978
+Nazca,-14.824471,-74.935626,Ica,23556
+Sechura,-5.552961,-80.820815,Piura,23020
+Jauja,-11.777101,-75.497017,Junín,21057
+Camaná,-16.623752,-72.710551,Arequipa,20956
+Ayaviri,-14.879024,-70.589117,Puno,19310
+Contamana,-7.348661,-75.009765,Loreto,18921
+Huantachaca,-12.944421,-74.236793,Ayacucho,18627
+Requena,-5.05857,-73.851172,Loreto,18000
+Huarmey,-10.066804,-78.150203,Ancash,16172
+Ilave,-16.085633,-69.638811,Puno,16033
+Puerto Pimentel,-6.832355,-79.933097,Lambayeque,15552
+Satipo,-11.253874,-74.638323,Junín,15532
+Junín,-11.158946,-75.993039,Junín,15320
+San Jacinto,-11.134487,-75.382732,Junín,14708
+Chota,-6.561562,-78.649304,Cajamarca,14240
+Lamas,-6.42054,-76.516724,San Martín,13693
+Motupe,-6.152682,-79.715136,Lambayeque,13681
+Cajabamba,-7.622359,-78.033491,Cajamarca,13486
+Chilca,-12.51208,-76.734715,Lima,12884
+Puquio,-14.691438,-74.123189,Ayacucho,10491
+Santiago,-14.184693,-75.711235,Ica,10449
+Otuzco,-7.905184,-78.563012,La Libertad,10134
+Salaverry,-8.216117,-78.975022,La Libertad,10066
+Olmos,-5.989161,-79.746649,Lambayeque,9800
+Putina,-15.476395,-69.432922,Puno,8118
+Urubamba,-13.305696,-72.116109,Cusco,7540
+Coracora,-15.013357,-73.779775,Ayacucho,7420
+Desaguadero,-16.564447,-69.041387,Puno,5329
+Santo Tomás,-14.450534,-72.081933,Cusco,4134
+Caballococha,-3.910166,-70.515773,Loreto,3195
+Tarapoto,-6.491659,-76.362943,San Martín,936
+Tournavista,-8.933098,-74.703483,Huánuco,511
+Güeppí,-0.117222,-75.2491,Loreto,10
+Soldado Bartra,-2.525312,-75.734356,Loreto,10
+Andoas,-2.905242,-76.400128,Loreto,10
+Puca Urco,-2.327868,-71.920137,Loreto,10
+Ayacucho,-13.158782,-74.22321,Ayacucho,
+Chiclayo,-6.771372,-79.840876,Lambayeque,
